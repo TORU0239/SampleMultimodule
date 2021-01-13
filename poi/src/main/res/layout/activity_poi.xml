@@ -7,6 +7,7 @@
     tools:context=".PoiActivity">
 
     <TextView
+        android:id="@+id/txtCentre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello POI World!"

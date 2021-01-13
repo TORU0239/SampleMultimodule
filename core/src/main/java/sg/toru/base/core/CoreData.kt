@@ -6,4 +6,6 @@ class CoreData {
     fun test() {
         Log.e("Toru", "Hello World!!")
     }
+
+    fun test2() = "TEST TEST TEST!!"
 }
